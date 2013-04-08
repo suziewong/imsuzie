@@ -1,0 +1,70 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+  <head>
+    <title>403</title>
+    <meta charset="utf-8"/>
+  <style type="text/css">
+	html {
+	    height: 100%;
+	}
+	
+	body {
+	    padding: 0;
+	    margin: 0;
+	    background-image: url(http://imsuzie.com/suzie/Stripes.jpg);
+	    background-size: cover;
+	    height: 100%;
+	    font-family: cantarell, sans-serif;
+	    font-size: 11pt;
+	    color: white;
+  text-align: center;
+         
+	}
+	
+	#table {
+		display: table;
+		height: 100%;
+		width: 100%;
+	}
+	
+	#cell {
+		display: table-cell;
+		vertical-align: middle;
+		
+	}
+	
+	.modal-dialog {
+	    border-radius: 24px;
+	    -moz-border-radius: 24px;
+	    -o-border-radius: 24px;
+	    background: rgba(0, 0, 0, 0.9);
+	    border: 2px solid #868686;
+	
+	    padding-right: 42px;
+	    padding-left: 42px;
+	    padding-bottom: 30px;
+	    padding-top: 30px;
+	
+	    text-align: center;
+	    margin: 0 auto;
+	    width: 20em;
+	}
+  </style>
+  
+  
+  
+  </head>
+  <body>
+    <div id="table">
+      <div id="cell">
+        <div class="modal-dialog">
+          <img src="http://imsuzie.com/suzie/Ubuntu_logo.svg" alt="403,谢谢合作" />
+          <br />
+          <h1>屌丝禁止入内</h1>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

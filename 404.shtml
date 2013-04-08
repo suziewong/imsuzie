@@ -1,0 +1,14 @@
+<head>
+  <title>404</title>
+  <link rel="stylesheet" href="http://s.jiyinyiyong.info/html/mosh-like/page.css"/>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+  <script src="http://s.jiyinyiyong.info/html/mosh-like/handle.js">
+   </script>
+
+</head>
+<body>
+  <div id="bg">404</div><code id="text"></code>
+</body>
+<!-- 
+                                                                                                                                                                                                                                                
+--> 
